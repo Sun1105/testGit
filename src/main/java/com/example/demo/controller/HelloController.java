@@ -12,6 +12,7 @@ public class HelloController {
 	public String hello() {
 		
 		System.out.println("更新1");
+		System.out.println("主干创建");
 		return "Hello World!";
 	}
 	
