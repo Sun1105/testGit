@@ -15,6 +15,7 @@ public class HelloController {
 		System.out.println("主干创建");
 		System.out.println("分支1");
 		System.out.println("分支创建");
+		System.out.println("第二次提交之前更新");
 
 		return "Hello World!";
 	}
